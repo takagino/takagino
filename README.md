@@ -1,34 +1,28 @@
-<div align="center">
-<h1>
-  Hi 👋 I'm Takagino
-</h1>
+# Hi 👋 I'm Hirotaka Takagi
+[トライデントコンピュータ専門学校Webデザイン学科](https://computer.trident.ac.jp/)講師。  
+<img src="./images/matsuken.png" alt="HirotakaTakagi" width="100" height="100">
 
-<h3>
-I'm a second year of graduate school.
-</h3>
+### 学内サークル
+- デザイン部：チーム出the印
+- 写真部：Half-Baked Photo Club
+- プログラミング部：熱暴走ズ
+<br />
+<br />
 
-<img src="./images/matsuken.png" alt="まつけん" width="100" height="100">
+## 👨‍💻 経歴
 
-<div align="left">
+<br />
+<br />
 
-- 🔭 My purpose is "to transform the movement of people and goods by using IT".
-  
-- 🌱 I’m currently learning "Python", "Data Science" and "Tourism DX".
-  
-- 📫 How to reach me **matsuken0524@outlook.jp**
-  
-- 🐰 I love rabbits!!
-  
-- 📝 I regularly write articles on [note](https://note.com/matsuken_rabbit)
-</div>
+## 🛠️ スキルセット
 
-<h3>My Skills</h3>
-<a href="https://computer.trident.ac.jp/">
-  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,php" />
-</a>
-<hr />
-<h3>📫 Connect With Me</h3>
-<a href="https://www.instagram.com/team.dethein/">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
-</a>
-</div>
+### 直近使用しているもの
+[![直近使用しているスキル](https://skillicons.dev/icons?i=ai,ps,figma,html,css,sass,tailwind,js,ts,threejs,p5js,react,arduino,blender&perline=8)]()
+
+### 使用経験があるもの
+[![使用経験があるスキル](https://skillicons.dev/icons?i=ae,pr,astro,nextjs,php,d3,firebase&perline=8)]()
+<br />
+<br />
+
+## 📫 SNS
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/trident__it/)
