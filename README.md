@@ -1,7 +1,9 @@
 # Hi 👋 I'm Hirotaka Takagi
+
 [トライデントコンピュータ専門学校Webデザイン学科](https://computer.trident.ac.jp/)講師。
 <br />
 <br />
+
 <img src="./assets/images/white.png" alt="HirotakaTakagi" width="200" height="200">
 
 ### 学内サークル
