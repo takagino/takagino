@@ -4,6 +4,7 @@
 <br />
 <br />
 
+<!-- width属性やheight属性が必要な場合はタグの形式で記述 -->
 <img src="./assets/images/white.png" alt="HirotakaTakagi" width="200" height="200">
 
 ### 学内サークル
