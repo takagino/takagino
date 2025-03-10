@@ -1,56 +1,34 @@
-<!--
-**takagino/takagino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+<div align="center">
+<h1>
+  Hi 👋 I'm Takagino
+</h1>
 
-# Takagino's GitHub Profile
+<h3>
+I'm a second year of graduate school.
+</h3>
 
-Welcome to my GitHub profile! I'm a dedicated software developer with a passion for creating innovative solutions and a keen interest in new technologies.
+<img src="./images/matsuken.png" alt="まつけん" width="100" height="100">
 
-## 🔭 Current Projects
-- **Project Name 1**: Brief description of the project. (Tech stack: Language, Framework, etc.)
-- **Project Name 2**: Brief description of the project. (Tech stack: Language, Framework, etc.)
+<div align="left">
 
-## 🌱 Currently Learning
-- **Technology 1**: Reason for learning this technology.
-- **Technology 2**: Reason for learning this technology.
+- 🔭 My purpose is "to transform the movement of people and goods by using IT".
+  
+- 🌱 I’m currently learning "Python", "Data Science" and "Tourism DX".
+  
+- 📫 How to reach me **matsuken0524@outlook.jp**
+  
+- 🐰 I love rabbits!!
+  
+- 📝 I regularly write articles on [note](https://note.com/matsuken_rabbit)
+</div>
 
-## 👯 Collaboration Interests
-- **Open Source Contributions**: Areas where you are contributing or interested in contributing.
-- **Team Projects**: Types of projects you want to collaborate on.
-
-## 🤔 Seeking Help With
-- **Specific Challenge or Technology**: Description of what you need help with.
-
-## 💬 Ask Me About
-- **Expertise Area 1**: Brief description of your expertise.
-- **Expertise Area 2**: Brief description of your expertise.
-
-## 📫 How to Reach Me
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- **Twitter**: [Your Twitter Handle](https://twitter.com/yourhandle)
-
-## 😄 Pronouns
-- He/Him or She/Her or They/Them
-
-## ⚡ Fun Fact
-- Share an interesting or fun fact about yourself.
-
----
-
-Feel free to explore my repositories and projects. Looking forward to connecting and collaborating with like-minded professionals!
-
-<!--
-**takagino/takagino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>My Skills</h3>
+<a href="https://computer.trident.ac.jp/">
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,php" />
+</a>
+<hr />
+<h3>📫 Connect With Me</h3>
+<a href="https://www.instagram.com/team.dethein/">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+</a>
+</div>
