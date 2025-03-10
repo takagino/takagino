@@ -1,17 +1,20 @@
 # Hi 👋 I'm Hirotaka Takagi
-[トライデントコンピュータ専門学校Webデザイン学科](https://computer.trident.ac.jp/)講師。  
-<img src="./images/matsuken.png" alt="HirotakaTakagi" width="100" height="100">
+[トライデントコンピュータ専門学校Webデザイン学科](https://computer.trident.ac.jp/)講師。
+<br />
+<br />
+<img src="./assets/images/white.png" alt="HirotakaTakagi" width="200" height="200">
 
 ### 学内サークル
-- デザイン部：チーム出the印
-- 写真部：Half-Baked Photo Club
+- デザイン部：[チーム出the印](https://www.instagram.com/team.dethein/)
+- 写真部：[Half-Baked Photo Club](https://www.instagram.com/half_baked.photo.club/)
 - プログラミング部：熱暴走ズ
-<br />
 <br />
 
 ## 👨‍💻 経歴
-
-<br />
+- 2003.03：名城大学理工学部電気電子工学科 卒業
+- 2007.03：岐阜県立国際情報科学芸術アカデミー(通称iamas) 卒業
+- 2007.04 - 2009.03：名古屋造形大学助手
+- 2011.04 - 現在：トライデントコンピュータ専門学校Webデザイン学科常勤講師
 <br />
 
 ## 🛠️ スキルセット
